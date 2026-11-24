@@ -1,0 +1,111 @@
+{
+  "exams": [
+    {
+      "id": "demo",
+      "title": "Demo",
+      "description": "Test data.",
+      "questions": [
+        {
+          "question": "Two plus two?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two plus two? option 1",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Two plus two? option 2",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Two plus two? option 3",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Two plus two? option 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Even numbers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Even numbers? option 1",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Even numbers? option 2",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Even numbers? option 3",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Even numbers? option 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "First letter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "First letter? option 1",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "First letter? option 2",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "First letter? option 3",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "First letter? option 4",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "Primes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Primes? option 1",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Primes? option 2",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Primes? option 3",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Primes? option 4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
